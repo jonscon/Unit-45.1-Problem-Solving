@@ -1,0 +1,11 @@
+{
+  "name": "prob-freq-count-pointers",
+  "version": "1.0.0",
+  "main": "average-pair.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
